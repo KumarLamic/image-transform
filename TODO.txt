@@ -1,0 +1,7 @@
+geometric transformation of test images.
+
+1. rotation
+    --> done but found test accuracy to be 10%
+
+2. scaling
+    -->
